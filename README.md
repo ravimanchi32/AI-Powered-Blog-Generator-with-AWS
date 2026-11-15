@@ -105,7 +105,7 @@ sequenceDiagram
 
 The frontend provides an intuitive, distraction-free environment for content generation:
 
-![User Interface Screenshot](./Architecture%20Diagram/image.png)
+![User Interface Screenshot](./Architecture-Diagram/image.png)
 
 ### Key UI Features
 - **Prompt Input Field**: Auto-focused, styled text field with validation alerts.
