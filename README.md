@@ -60,7 +60,7 @@ Content creation often requires significant research, outlining, and formatting 
 
 Below is the complete AWS architecture depicting the request flow, inference pipeline, persistence, and client rendering:
 
-![AWS Blog Architecture Flow](./Architecture%20Diagram/AWS%20Blog%20Architecture%20Flow.png)
+![AWS Blog Architecture Flow](./Architecture-Diagram/AWS-Blog-Architecture-Flow.png)
 
 ```mermaid
 sequenceDiagram
